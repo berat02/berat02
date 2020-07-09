@@ -1,4 +1,4 @@
-### a complete software developer 👋
+### 💻 I’m currently learning ... 💻
 
 <!--
 **berat02/berat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
