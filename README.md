@@ -1,4 +1,4 @@
-💻 I’m currently learning ... 💻
+
 ![CalmKeyEidolonhelvum-small](https://user-images.githubusercontent.com/46246019/87048324-3dc1f300-c204-11ea-974e-b2918f3aeed2.gif)
 
 <!--
