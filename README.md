@@ -12,3 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-synthwave&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-synthwave&logo=github)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-181717?style=flat)
+<div>
+ <a href="https://www.instagram.com/beratyldrm3402" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=synthwave-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.Twitter.com/beratyldrm3402" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue.svg?&style=synthwave-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+</div>
