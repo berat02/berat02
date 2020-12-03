@@ -10,7 +10,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-synthwave&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-synthwave&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-synthwave&logo=bootstrap)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-synthwave&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-synthwave&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-synthwave&logo=github)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-181717?style=flat)
