@@ -4,10 +4,10 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berat02&layout=compact&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/berat02/github-readme-stats)  
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-synthwave&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffe60a?style=flat-synthwave&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-synthwave&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-synthwave&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-synthwave&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat-synthwave&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-synthwave&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-synthwave&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-synthwave&logo=git)
