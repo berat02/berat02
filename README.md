@@ -7,12 +7,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffe60a?style=flat-synthwave&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-synthwave&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-synthwave&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat-synthwave&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-synthwave&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-synthwave&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-synthwave&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-synthwave&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-synthwave&logo=github)
-![Nextjs](https://img.shields.io/badge/-Nextjs-181717?style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-synthwave&logo=github)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat)
 
 <div>
  <a href="https://www.instagram.com/beratyldrm3402" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=synthwave-square&logo=instagram&logoColor=white" alt="Instagram"></a>
