@@ -4,7 +4,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berat02&layout=compact&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/berat02/github-readme-stats)  
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffe60a?style=flat-synthwave&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-synthwave&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-synthwave&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-synthwave&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-synthwave&logo=bootstrap)
