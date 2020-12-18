@@ -10,8 +10,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-synthwave&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-synthwave&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-synthwave&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-synthwave&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-synthwave&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-synthwave&logo=git)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat)
 
 <div>
