@@ -15,6 +15,7 @@
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat)
 
 <div>
- <a href="https://www.instagram.com/beratyldrm3402" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=synthwave-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.Twitter.com/beratyldrm3402" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue.svg?&style=synthwave-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.instagram.com/beratyldrm3402/"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" width="80" margin="10"/></a>
+  <a href="https://twitter.com/BeratYldrm3402"><img align="center" src="https://img.icons8.com/clouds/100/000000/twitter.png" width="80" margin="10"/></a>
+  <a href="beratyldrm3402@gmail.com"><img align="center" src="https://img.icons8.com/clouds/100/000000/instagram.png" width="80" margin="10"/></a>
 </div>
