@@ -18,4 +18,5 @@
   <a href="https://www.instagram.com/beratyldrm3402/"><img align="center" src="https://img.icons8.com/clouds/100/000000/instagram.png" width="80" margin="10"/></a>
   <a href="https://twitter.com/BeratYldrm3402"><img align="center" src="https://img.icons8.com/clouds/100/000000/twitter.png" width="80" margin="10"/></a>
   <a href="https://beratyildirim0234@gmail.com"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" width="80" margin="10"/></a>
+   <a href="https://github.com/berat02"><img align="center" src="https://img.icons8.com/clouds/100/000000/github.png" width="80" margin="10"/></a>
 </div>
