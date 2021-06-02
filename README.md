@@ -1,4 +1,4 @@
-## 💻 Hello, I'm Berat.
+## 💻 Hello, I'm Berat. 👋🏻
 ![Html-min](https://user-images.githubusercontent.com/46246019/92081093-3a458500-edcb-11ea-88a4-e46d45463ce2.gif)
  <br><img height="140px" src="https://github-readme-stats.vercel.app/api?username=berat02&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berat02&layout=compact&text_color=000&icon_color=000&bg_color=0,52fa5a,ffc64d,ffc64d,ea6161&theme=graywhite)](https://github.com/berat02/github-readme-stats)  
